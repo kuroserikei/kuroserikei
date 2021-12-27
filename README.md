@@ -27,3 +27,13 @@ Interesting aspects.  As with bullets, there is a fixed form, item tag is a numb
 The change from ) to . or back in the tag starts new list.
 
 The first item has the number from the tag.  Subsequent items have numbers that are incremented, and numbers in tags are ignored.
+#### Nested list, sublists are indented 4 spaces, numbering is roman
+1) item A
+    1) item a
+    2) iem b
+    3) item c
+    4) item d
+    5) item e
+    6) item f
+    7) item g
+2) item B
