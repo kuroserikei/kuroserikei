@@ -4,12 +4,15 @@ It is very important to click [Commit changes], otherwise the changes vanish :-(
 
 While we type, we are in "insert mode" because we clicked "Edit File", or in "viewing mode", after clicking "Preview".  "Commit changes" is below the viewing/editing area.
 ## Bullet lists and numbered list
-###
+### 3rd rank header
 #### Bullet lists have items with tag [-+#][ ]
 - Item A, tag -
 - Item B, tag -
 + Item C, tag +, change of tags starts a new list, hence we see a larger space between lines.
 + Item D, empty line ends the list, I guess
+    + item a
+        + item aa
+    + item b
 + Item E
 We add a line after item E, it continues the item.
 + Very important item!
